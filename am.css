@@ -1,15 +1,15 @@
 body{
-    background-color: #dadad0;
+    background-color: aliceblue;
 }
 h1{
     text-align: left;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Yantramanav', sans-serif;
     font-size: 5em;
-    color: #eb6257;
+    color: #1b2145;
 }
 p{
     text-align: left;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Yantramanav', sans-serif;
     font-size: 3em;   
-    color: #528fcb;
+    color: #1b2145;
 }

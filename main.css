@@ -1,6 +1,6 @@
 html, body {margin: 0; height: 100%; overflow-x: hidden}
 body{
-    background-color: #dadad0;
+    background-color: aliceblue;
 }
 #top{
     position: fixed;
@@ -9,16 +9,16 @@ body{
     margin: 0px;
             }
 #top > h1{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 5em;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 7vw;
     text-align: center;
-    color: #eb6257;
+    color: #1b2145;
     margin: 0px;
             }
 #middle{
     position: absolute;
     display: block;
-    margin-top: 5em;
+    margin-top: 5%;
     margin-left: 0px;
     margin-right: 0px;
     width: 100%;
@@ -44,25 +44,25 @@ body{
     text-align: center;
 }
 #center > p{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.9em;
-    color: #eb6257;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 3vw;
+    color: #1b2145;
 }
 #center > p > span{
-    font-size: 2em; 
+    font-size: 6vw; 
     display: block;
 }
 #center > p > span > a{
-    color: #eb6257;
+    color: #1b2145;
 }
 img{
-    height: 25em;
-    width: 11.7em;
+    height: 50%;
+    width: 50%;
     margin: auto;
 }
 a{
     text-decoration: none;
-    color: #528fcb;
+    color: darkslategray;
 }
 #right{
     position: absolute;
@@ -77,13 +77,13 @@ table{
     margin: auto;
 }
 td{
-    font-size: 3.0em;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 3vw;
+    font-family: 'Yantramanav', sans-serif;
     padding: 2em;
     text-align: center;
 }
 a:hover{
-    color: skyblue;
+    color: black;
 }
 #center > p > span > a:hover{
     color: #eb6257;
